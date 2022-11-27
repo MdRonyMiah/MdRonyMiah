@@ -1,5 +1,5 @@
-![Front-end Developer](https://scontent.fruh6-1.fna.fbcdn.net/v/t39.30808-6/317324151_1298488134318573_2750064048605345794_n.png?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=xOhFZm0pFgIAX-BRfHr&_nc_ht=scontent.fruh6-1.fna&oh=00_AfCkRKiqcn8temsK0bK5WsGnjp1zDYgjShxq-VoNnLtKJg&oe=63877F31)
-
+<!-- ![Front-end Developer](https://scontent.fruh6-1.fna.fbcdn.net/v/t39.30808-6/317324151_1298488134318573_2750064048605345794_n.png?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=xOhFZm0pFgIAX-BRfHr&_nc_ht=scontent.fruh6-1.fna&oh=00_AfCkRKiqcn8temsK0bK5WsGnjp1zDYgjShxq-VoNnLtKJg&oe=63877F31)
+ -->
 ### Hi there 👋, I'm Rony
 #### Front-end Developer
 
