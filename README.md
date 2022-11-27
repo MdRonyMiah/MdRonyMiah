@@ -3,7 +3,9 @@
 ### Hi there 👋, I'm Rony
 #### Front-end Developer
 
-Hey, my name is Rony. I am a front-end developer in Saudi Arabia. I work with clients around the world, and I'm passionate about web development.
+Hey, my name is Rony. I'm highly skilled in front-end development, I have a holistic approach to building performant and secure websites and apps that deliver great user experiences and business values, using TypeScript, JavaScript, TailwindCss, ReactJs, and Redux. I manage projects and communicate with them using Slack, Telegram, and others. My second nature is uncovering and fixing bugs in the application through testing.
+![image](https://user-images.githubusercontent.com/119079883/204148144-ad3a3398-922d-4152-b4d5-4a2772140f1c.png)
+
 
 Skills: JAVASCRIPT / REACT JS / REDUX / HTML / CSS / TAILWAIND / WORDPRESS
 
