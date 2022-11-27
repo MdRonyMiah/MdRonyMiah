@@ -1,14 +1,26 @@
-### Hi there 👋
+![Front-end Developer](https://scontent.fruh6-1.fna.fbcdn.net/v/t39.30808-6/317324151_1298488134318573_2750064048605345794_n.png?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=xOhFZm0pFgIAX-BRfHr&_nc_ht=scontent.fruh6-1.fna&oh=00_AfCkRKiqcn8temsK0bK5WsGnjp1zDYgjShxq-VoNnLtKJg&oe=63877F31)
 
-**MdRonyMiah/MdRonyMiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Rony
+#### Front-end Developer
 
-Here are some ideas to get you started:
+Hey, my name is Rony. I am a front-end developer in Saudi Arabia. I work with clients around the world, and I'm passionate about web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Skills: JAVASCRIPT / REACT JS / REDUX / HTML / CSS / TAILWAIND / WORDPRESS
+
+- 🔭 I’m currently working on YouTube cloning project  
+- 🌱 I’m currently learning Next.Js 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Front-end Development 
+- 📫 How to reach me: devrony.me@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MdRonyMiah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/devrony.me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://devrony.com/)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MdRonyMiah)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdRonyMiah)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdRonyMiah&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=MdRonyMiah)  
+
